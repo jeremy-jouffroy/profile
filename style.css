@@ -118,11 +118,15 @@ td {
   margin-bottom: 20px;
 }
 
+.skills {
+      padding-inline-start: 0px;
+
+}
 
 .skills > li {
   list-style-type: none;
   padding-left: 0px;
-
+  padding: 0px;
 }
 
 .card {
